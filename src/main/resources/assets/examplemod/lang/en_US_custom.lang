@@ -1,0 +1,8 @@
+item.examplemod_ObsidianPickaxe=Obsidian Pickaxe
+item.examplemod_CustomHelm.name = Custom Helm
+item.examplemod_CustomChestplate.name = Custom Chestplate
+item.examplemod_CustomLeggings.name = Custom Leggings
+item.examplemod_CustomLeggings.name = Custom Boots
+item.examplemod_CustomSword.name = Custom Sword
+item.examplemod_GelPickaxe.name = Gel Pickaxe
+entity.CustomMob.name=Gel Zombie

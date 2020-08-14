@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xy ",
+    "yx ",
+    "   "
+
+  ],
+  "key": {
+    "x": {
+      "item": "examplemod:chainmail",
+      "data": 0
+    },
+    "y": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "minecraft:book"
+}
